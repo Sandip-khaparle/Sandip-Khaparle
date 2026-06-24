@@ -4,10 +4,10 @@
 
 📍 India | Open to Opportunities  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/sandip-khaparle/)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](khaparlesandip96@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-blue)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Sandip-khaparle)
 
 ---
 
