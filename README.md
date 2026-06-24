@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sandip 👋
 
-<!--
-**Sandip-khaparle/Sandip-Khaparle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Data Scientist | ML Engineer
 
-Here are some ideas to get you started:
+📍 India | Open to Opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:yourmail@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-blue)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com)
+
+---
+
+## 👨‍💻 About Me
+CS graduate passionate about turning data into decisions.  
+I enjoy full pipeline — from data cleaning to ML deployment.
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-grey?logo=mysql)
+
+### 🤖 ML & Data Science
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+
+### 📊 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+
+### 📈 Statistics
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-orange)
+![A/B Testing](https://img.shields.io/badge/A--B_Testing-purple)
+![Probability](https://img.shields.io/badge/Probability-blue)
+![Statistical Inference](https://img.shields.io/badge/Statistical_Inference-grey)
+![Correlation](https://img.shields.io/badge/Correlation-red)
