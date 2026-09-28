@@ -1,6 +1,6 @@
 # Hi, I'm Sandip 👋
 
-### Data Analyst | Data Scientist | ML Engineer
+### Associate AI Engineer | Generative AI | LLM | RAG | AI Chatbots | Python | NLP
 
 📍 India | Open to Opportunities  
 
